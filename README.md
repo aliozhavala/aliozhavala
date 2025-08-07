@@ -1,5 +1,5 @@
 - Hi, I’m @aliozhavala
-- Robert College'22 ~ Bilkent University CS Junior
+- Robert College'22 ~ Bilkent University CS Senior
 - Contact info: ali.ozhavala@ug.bilkent.edu.tr
 
 <!---
