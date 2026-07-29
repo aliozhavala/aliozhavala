@@ -1,6 +1,6 @@
 - Hi, I’m @aliozhavala
-- Robert College'22 ~ Bilkent University CS Senior
-- Contact info: ali.ozhavala@ug.bilkent.edu.tr
+- Robert College'22 ~ Bilkent University CS 
+- Contact info: aliozhavala05@gmail.com
 
 <!---
 aliozhavala/aliozhavala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
